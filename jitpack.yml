@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=MyLibrary-debug.aar -DgroupId=com.keyur -DartifactId=mylibrary -Dversion=1.0.0 -Dpackaging=aar -DpomFile=pom.xml
