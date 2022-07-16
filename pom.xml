@@ -5,6 +5,5 @@
   <groupId>com.keyur</groupId>
   <artifactId>mylibrary</artifactId>
   <version>1.0.0</version>
-  <type>aar</type>
   <description>POM was created from install:install-file</description>
 </project>
